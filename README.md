@@ -9,7 +9,7 @@ $ .venv\Script\actiavte # Windows
 
 - Install required packages
 ```console
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 - Copy `sample.env` into `.env` set values for environment variables
